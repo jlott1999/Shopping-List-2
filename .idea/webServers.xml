@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fe4f06a9-6aeb-4ce1-820b-e96e9ee7bd9e" name="Shopping-List-2" url="http://bootcamp-coders.cnm.edu/~jlott3/Shopping-List-2">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/jlott3/public_html/SHopping-List-2" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
