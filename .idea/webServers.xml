@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="fe4f06a9-6aeb-4ce1-820b-e96e9ee7bd9e" name="Shopping-List-2" url="http://bootcamp-coders.cnm.edu/~jlott3/Shopping-List-2">
-        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/jlott3/public_html/SHopping-List-2" accessType="SFTP" authAgent="true">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/jlott3/public_html/Shopping-List-2" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
